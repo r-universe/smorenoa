@@ -3,3 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "CPNCoverageAnalysis"]
+	path = CPNCoverageAnalysis
+	url = https://github.com/cran/CPNCoverageAnalysis
+	shallow = true
+	registered = true
+[submodule "ODMeans"]
+	path = ODMeans
+	url = https://github.com/cran/ODMeans
+	shallow = true
+	registered = true
