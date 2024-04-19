@@ -8,3 +8,6 @@
 [submodule "ODMeans"]
 	path = ODMeans
 	url = https://github.com/cran/ODMeans
+[submodule "WordListsAnalytics"]
+	path = WordListsAnalytics
+	url = https://github.com/cran/WordListsAnalytics
